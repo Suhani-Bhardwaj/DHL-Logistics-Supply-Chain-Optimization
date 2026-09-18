@@ -512,9 +512,9 @@ Through this project, I gained practical experience in:
 
 # 📄 Project Files
 
-* **SQL Analysis:** `SQL/DHL_Logistics_Analysis.sql`
+* **SQL Analysis:** `DHL_Logistics_Analysis.sql`
 * **Datasets:** `Dataset/`
-* **Project Presentation:** `Presentation/DHL_Logistics_Project.pptx`
+* **Project Presentation:** `DHL_Logistics_Project.pptx`
 
 ---
 
