@@ -476,7 +476,8 @@ DHL-Logistics-Supply-Chain-Optimization/
 │
 ├── README.md
 │
-├── DHL_Logistics_Analysis.sql
+├── SQL/
+│   └── DHL_Logistics_Analysis.sql
 │
 ├── Dataset/
 │   ├── DHL_orders.xlsx
@@ -485,7 +486,8 @@ DHL-Logistics-Supply-Chain-Optimization/
 │   ├── DHL_warehouses.xlsx
 │   └── DHL_delivery_agents.xlsx
 │
-└── DHL_Logistics_Project.pptx
+└── Presentation/
+    └── DHL_Logistics_Project.pptx
 ```
 
 ---
@@ -512,9 +514,9 @@ Through this project, I gained practical experience in:
 
 # 📄 Project Files
 
-* **SQL Analysis:** `DHL_Logistics_Analysis.sql`
+* **SQL Analysis:** `SQL/DHL_Logistics_Analysis.sql`
 * **Datasets:** `Dataset/`
-* **Project Presentation:** `DHL_Logistics_Project.pptx`
+* **Project Presentation:** `Presentation/DHL_Logistics_Project.pptx`
 
 ---
 
