@@ -476,8 +476,7 @@ DHL-Logistics-Supply-Chain-Optimization/
 │
 ├── README.md
 │
-├── SQL/
-│   └── DHL_Logistics_Analysis.sql
+├── DHL_Logistics_Analysis.sql
 │
 ├── Dataset/
 │   ├── DHL_orders.xlsx
@@ -486,8 +485,7 @@ DHL-Logistics-Supply-Chain-Optimization/
 │   ├── DHL_warehouses.xlsx
 │   └── DHL_delivery_agents.xlsx
 │
-└── Presentation/
-    └── DHL_Logistics_Project.pptx
+└── DHL_Logistics_Project.pptx
 ```
 
 ---
